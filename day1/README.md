@@ -188,7 +188,7 @@ The style argument is optional. When omitted, the text will use the style from t
 
 To display text that uses multiple styles (e.g., a paragraph with some bold words), use RichText.
 
-## Code: [click to see code](./day1/code/main.dart)
+## Code: [click to see code](/day1/code)
 
 
 here is method to run these code
