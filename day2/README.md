@@ -22,7 +22,7 @@ Managing state with `setState()` <br>
 
 
 
-## Code: [click to see code](/day2/code/app/)
+## Code: [click to see code](/day2/code/)
 
 # Usage
 
