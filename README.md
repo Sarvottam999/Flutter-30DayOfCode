@@ -6,7 +6,7 @@
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 01    |                                                             [Introduction](./day1/README.md)                                                        |
-| 01    |                                                             [stateless and stateful , gesture](./day2/README.md)                                                        |
+| 02    |                                                             [stateless and stateful , gesture](./day2/README.md)                                                        |
 
 
 

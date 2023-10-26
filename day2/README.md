@@ -6,7 +6,7 @@
   <source src="./Image-AND-Video/video.mp4" type="video/mp4">
 </video>
 
-#  #Day2 of  #0DaysOfCode 
+#  #Day2 of  #30DaysOfCode 
 
 - Understanding the basic structure of a Flutter app
 -  Widgets: `Stateless` vs `Stateful`
