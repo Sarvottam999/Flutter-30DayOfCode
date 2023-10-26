@@ -1,10 +1,4 @@
-
-# Day 2
- 
-
-<video controls>
-  <source src="./Image-AND-Video/video.mp4" type="video/mp4">
-</video>
+![project work video](./Image-AND-Video/video.gif)
 
 #  #Day2 of  #30DaysOfCode 
 
