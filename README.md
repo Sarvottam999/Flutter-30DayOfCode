@@ -5,7 +5,9 @@
 💛💛💛 HAPPY CODING 💛💛💛
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                                                             [Introduction](./day1/README.md)                                                             |
+| 01    |                                                             [Introduction](./day1/README.md)                                                        |
+| 01    |                                                             [stateless and stateful , gesture](./day2/README.md)                                                        |
+
 
 
 NOTE : This is a work in progress. I will keep on adding the topics and resources as I learn them. 
