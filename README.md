@@ -10,9 +10,9 @@
 | 03    |                                                [Navigation , Input forms](./day3/README.md)                                                 |
 | 04    |                                                [Scrolling](./day4/README.md)                                                 |
 | 05    |                                                [State Management](./day5/README.md)                                                 |
-| 06    |                                                [working on the project - shoe seeling mobile application](./day9/code/temp/)                                        |
-| 07    |                                                [working on the project - shoe seeling mobile application](./day9/code/temp/)                                        |
-| 08    |                                                [working on the project - shoe seeling mobile application](./day9/code/temp/)                                        |
+| 06    |                                                [working on the project - shoe seeling mobile application](./day9/README.md)                                        |
+| 07    |                                                [working on the project - shoe seeling mobile application](./day9/README.md)                                        |
+| 08    |                                                [working on the project - shoe seeling mobile application](./day9/README.md)                                        |
 | 09    |                                                [Completed the project - shoe seeling mobile application](./day9/README.md)                                        |
 
 
