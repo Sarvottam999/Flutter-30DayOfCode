@@ -13,7 +13,7 @@
 | 06    |                                                [working on the project - shoe seeling mobile application](./day9/code/temp/)                                        |
 | 07    |                                                [working on the project - shoe seeling mobile application](./day9/code/temp/)                                        |
 | 08    |                                                [working on the project - shoe seeling mobile application](./day9/code/temp/)                                        |
-| 09    |                                                [Completed the project - shoe seeling mobile application](./day9/code/temp/)                                        |
+| 09    |                                                [Completed the project - shoe seeling mobile application](./day9/README.md)                                        |
 
 
 
