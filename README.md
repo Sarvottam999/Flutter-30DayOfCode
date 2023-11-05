@@ -15,6 +15,9 @@
 | 08    |                                                [working on the project - shoe seeling mobile application](./day9/README.md)                                        |
 | 09    |                                                [Completed the project - shoe seeling mobile application](./day9/README.md)                                        |
 | 10    |                                                [REST API - Networking](./day10/README.md)                                        |
+| 11    |                                                Animation                                      |
+| 12    |                                                [Shared Prefrences](./day12/README.md)                                        |
+
 
 
 
