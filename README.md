@@ -21,6 +21,9 @@
 | 14    |                                              Calender                                                               |
 | 15    |                                              [Music App Project](./day16/README.md)                      |
 | 16    |                                              [Music App Project](./day16/README.md)                      |
+| 17    |                                              [completion of Music App Project](./day17/README.md)                      |
+| 18    |                                              [SQL learnings](./day18/README.md)                      |
+
 
 
 

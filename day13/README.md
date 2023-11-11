@@ -1,9 +1,9 @@
 
-#  #Day12 of  #30DaysOfCode  ˗ˏˋ 📚 ☕︎ 🎧 ⚯ 💻 ˎˊ˗ 
+#  #Day13 of  #30DaysOfCode  ˗ˏˋ 📚 ☕︎ 🎧 ⚯ 💻 ˎˊ˗ 
 
-![project work video](./video/video.gif)
+![project work video](./video/img.png)
 
-## Code: [click to see code for APP](/day12/code/app/) 📋
+## Code: [click to see code for APP](/day13/code/temp/) 📋
  
  
  
