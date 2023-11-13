@@ -1,5 +1,5 @@
 
-#  #Day18 of  #30DaysOfCode  ˗ˏˋ 📚 ☕︎ 🎧 ⚯ 💻 ˎˊ˗ 
+# Day18 of  #30DaysOfCode  ˗ˏˋ 📚 ☕︎ 🎧 ⚯ 💻 ˎˊ˗ 
 
 ![project work video](./video/img.png)  
 
