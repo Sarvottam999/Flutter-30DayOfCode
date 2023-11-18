@@ -24,9 +24,8 @@
 | 17    |                                              [completion of Music App Project](./day17/README.md)                      |
 | 18    |                                              [SQL learnings](./day18/README.md)                      |
 | 19    |                                              [Responsive and Adaptive](./day19/README.md)                      |
-| 19    |                                              [Bloc State Management](./day20/README.md)                      |
-
-
+| 20    |                                              [Bloc State Management](./day20/README.md)                      |
+| 23    |                                              [Completion of project - internationalization](./day23/README.md)                      |
 
 
 

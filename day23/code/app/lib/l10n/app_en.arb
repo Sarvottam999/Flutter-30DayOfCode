@@ -1,0 +1,16 @@
+{
+   "appTitle1": "Hi Sarvottam!",
+  "appTitle2": "Good Morning",
+  "moreArticles": "More Articles",
+  "search": "Search",
+  "seeAll": "See All",
+  "listArticleAppbar" : "Articles",
+  "readMore" : "Read More",
+
+
+
+  "@helloWorld ":{
+    
+    "description" : "The convertional newborn programmer greeting"
+    }
+}
