@@ -25,7 +25,10 @@
 | 18    |                                              [SQL learnings](./day18/README.md)                      |
 | 19    |                                              [Responsive and Adaptive](./day19/README.md)                      |
 | 20    |                                              [Bloc State Management](./day20/README.md)                      |
+| 21    |                                              [  project on  internationalization](./day23/README.md)                      |
+| 22    |                                              [project on internationalization](./day23/README.md)                      |
 | 23    |                                              [Completion of project - internationalization](./day23/README.md)                      |
+| 24    |                                              [Firebase](./day24/README.md)                      |
 
 
 
